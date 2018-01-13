@@ -16,5 +16,11 @@ print str(now)
 # a function that will return the current month
 
 
+# a function that will return me the current day of the week(sunday-saturday)
+
+
+
+
+
 
 
